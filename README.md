@@ -1,4 +1,5 @@
 # Order Desk .NET API
+This code serves as a foundational example and should be extended with robust error handling and logging practices suitable for production environments.
 
 # Source Attribution
 This structure is adapted from the Order Desk API Documentation.
@@ -8,4 +9,7 @@ This structure is adapted from the Order Desk API Documentation.
 - Expand with more endpoints and operations as needed for your application.
 - Integrate logging to monitor API requests and responses.
 
-This code serves as a foundational example and should be extended with robust error handling and logging practices suitable for production environments.
+# Sources
+API Documentation: https://apidocs.orderdesk.com/
+
+
